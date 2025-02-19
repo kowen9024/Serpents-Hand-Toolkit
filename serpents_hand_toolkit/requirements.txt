@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+beautifulsoup4
+spacy
+pytesseract
+tensorflow
+keras
+selenium
+chromedriver_autoinstaller
+opencv-python
+requests
+psutil
+tk
