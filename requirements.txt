@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+beautifulsoup4
+spacy
+pytesseract
+tensorflow
+keras
+selenium
+xgboost
+nltk
+opencv-python
+requests
+psutil
+tk
